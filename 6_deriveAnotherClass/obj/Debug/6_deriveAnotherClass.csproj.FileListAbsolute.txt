@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\modifiers\6_deriveAnotherClass\bin\Debug\6_deriveAnotherClass.exe.config
+C:\Users\Srajan\source\modifiers\6_deriveAnotherClass\bin\Debug\6_deriveAnotherClass.exe
+C:\Users\Srajan\source\modifiers\6_deriveAnotherClass\bin\Debug\6_deriveAnotherClass.pdb
+C:\Users\Srajan\source\modifiers\6_deriveAnotherClass\obj\Debug\6_deriveAnotherClass.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\modifiers\6_deriveAnotherClass\obj\Debug\6_deriveAnotherClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\modifiers\6_deriveAnotherClass\obj\Debug\6_deriveAnotherClass.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\modifiers\6_deriveAnotherClass\obj\Debug\6_deriveAnotherClass.exe
+C:\Users\Srajan\source\modifiers\6_deriveAnotherClass\obj\Debug\6_deriveAnotherClass.pdb

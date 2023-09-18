@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\modifiers\4_accessProtectedMembers\bin\Debug\4_accessProtectedMembers.exe.config
+C:\Users\Srajan\source\modifiers\4_accessProtectedMembers\bin\Debug\4_accessProtectedMembers.exe
+C:\Users\Srajan\source\modifiers\4_accessProtectedMembers\bin\Debug\4_accessProtectedMembers.pdb
+C:\Users\Srajan\source\modifiers\4_accessProtectedMembers\obj\Debug\4_accessProtectedMembers.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\modifiers\4_accessProtectedMembers\obj\Debug\4_accessProtectedMembers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\modifiers\4_accessProtectedMembers\obj\Debug\4_accessProtectedMembers.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\modifiers\4_accessProtectedMembers\obj\Debug\4_accessProtectedMembers.exe
+C:\Users\Srajan\source\modifiers\4_accessProtectedMembers\obj\Debug\4_accessProtectedMembers.pdb

@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\modifiers\5_protectedInternalMem\bin\Debug\5_protectedInternalMem.exe.config
+C:\Users\Srajan\source\modifiers\5_protectedInternalMem\bin\Debug\5_protectedInternalMem.exe
+C:\Users\Srajan\source\modifiers\5_protectedInternalMem\bin\Debug\5_protectedInternalMem.pdb
+C:\Users\Srajan\source\modifiers\5_protectedInternalMem\obj\Debug\5_protectedInternalMem.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\modifiers\5_protectedInternalMem\obj\Debug\5_protectedInternalMem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\modifiers\5_protectedInternalMem\obj\Debug\5_protectedInternalMem.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\modifiers\5_protectedInternalMem\obj\Debug\5_protectedInternalMem.exe
+C:\Users\Srajan\source\modifiers\5_protectedInternalMem\obj\Debug\5_protectedInternalMem.pdb

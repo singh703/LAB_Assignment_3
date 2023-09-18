@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\modifiers\3_accessDiffAssembly\bin\Debug\3_accessDiffAssembly.exe.config
+C:\Users\Srajan\source\modifiers\3_accessDiffAssembly\bin\Debug\3_accessDiffAssembly.exe
+C:\Users\Srajan\source\modifiers\3_accessDiffAssembly\bin\Debug\3_accessDiffAssembly.pdb
+C:\Users\Srajan\source\modifiers\3_accessDiffAssembly\obj\Debug\3_accessDiffAssembly.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\modifiers\3_accessDiffAssembly\obj\Debug\3_accessDiffAssembly.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\modifiers\3_accessDiffAssembly\obj\Debug\3_accessDiffAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\modifiers\3_accessDiffAssembly\obj\Debug\3_accessDiffAssembly.exe
+C:\Users\Srajan\source\modifiers\3_accessDiffAssembly\obj\Debug\3_accessDiffAssembly.pdb
